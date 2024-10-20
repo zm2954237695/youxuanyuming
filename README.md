@@ -1,3 +1,10 @@
+项目搬运，这两位大佬 [tianshipapa](https://github.com/tianshipapa) 和 [ymyuuu](https://github.com/ymyuuu/BestDomain)
+只是合并项目
+# cfipcaiji
+每3小时自动抓取 https://monitor.gacjie.cn/page/cloudflare/ipv4.html和 https://ip.164746.xyz 的优选ip，
+形成ip.txt 还有js自动生成的https://cf.090227.xyz 和 https://stock.hostmonit.com/CloudFlareYes
+
+
 # BestDomain
 
 ## 使用说明
