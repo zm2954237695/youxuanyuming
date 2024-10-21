@@ -3,6 +3,7 @@
 # cfipcaiji
 每3小时自动抓取 https://monitor.gacjie.cn/page/cloudflare/ipv4.html和 https://ip.164746.xyz 的优选ip，
 形成ip.txt 还有js自动生成的https://cf.090227.xyz 和 https://stock.hostmonit.com/CloudFlareYes
+![image](https://github.com/user-attachments/assets/723cd14e-d108-4f2d-9780-710410a1b955)
 
 
 # BestDomain
