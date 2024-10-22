@@ -49,4 +49,6 @@ https://github.com/jc-lw/youxuanyuming
 
 # 设置完成 
 ![image.png](https://rin.vcrr.us.kg/images/defa31617244ae82e89f05480be397eb3938f15e.png)
+这里就是 运行完成，去ping出来的优选IP
+![image.png](https://rin.vcrr.us.kg/images/8816d5204054629815ecf6add95e9e244849e85b.png)
 
