@@ -4,8 +4,8 @@
 - 老王只是合并两个项目
 - github项目地址
 ## 优选域名 ， IP 取决于抓取的 网站
-bestcf.cfcs.us.kg 
-api.cfcs.us.kg
+- bestcf.cfcs.us.kg 
+- api.cfcs.us.kg
 
 ![image.png](https://img.lwxpz.me/file/1736315762020_image.png)
 
