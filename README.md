@@ -6,7 +6,8 @@
 ## 优选域名 ， IP 取决于抓取的 网站
 bestcf.cfcs.us.kg 
 api.cfcs.us.kg
-![图片.png ]（https://img.lwxpz.me/file/1736315762020_image.png）
+
+![image.png](https://img.lwxpz.me/file/1736315762020_image.png)
 
 https://github.com/jc-lw/youxuanyuming
 
